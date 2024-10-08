@@ -1,0 +1,3 @@
+KeyError in line 12 of /Users/winniecook/Documents/Bioinformatics_Projects/Python/cytochrome_c_project/Snakefile:
+'cytc_protein_id'
+  File "/Users/winniecook/Documents/Bioinformatics_Projects/Python/cytochrome_c_project/Snakefile", line 12, in <module>

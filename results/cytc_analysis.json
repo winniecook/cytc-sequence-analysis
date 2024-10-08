@@ -1,0 +1,10 @@
+{
+  "id": "NP_061820.1",
+  "name": "NP_061820",
+  "description": "cytochrome c [Homo sapiens]",
+  "length": 105,
+  "molecular_weight": "N/A",
+  "first_10_aa": "MGDVEKGKKI",
+  "last_10_aa": "IAYLKKATNE",
+  "num_features": 9
+}
